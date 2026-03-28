@@ -5,8 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  /* background-image: url('sources/textur_gruen_rosa.jpg'); */
-  background-image: url('sources/textur_blau.jpg');
+  background-image: url('sources/textur_gruen_rosa.jpg');
   background-repeat: repeat;
   background-size: 500px 500px; /* Größe der Grafik anpassen */
 }
